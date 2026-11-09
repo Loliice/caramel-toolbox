@@ -1,0 +1,31 @@
+{
+  "name": "com.caramel.toolbox",
+  "version": "1.0.0",
+  "displayName": "焦糖工具箱 (Caramel Toolbox)",
+  "description": "一套面向 VRChat 换装/改模工作流的编辑器工具集：快速改模、穿模修复、静默导入、材质批量替换、贴图压缩、RGB 通道拆分、商品图预览、动骨计算、场景复制、快速上传。",
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "author": {
+    "name": "Loliice",
+    "url": "https://github.com/Loliice/caramel-toolbox"
+  },
+  "dependencies": {
+    "com.vrchat.avatars": "3.7.0",
+    "nadena.dev.modular-avatar": "1.10.0",
+    "nadena.dev.ndmf": "1.6.0"
+  },
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0",
+    "nadena.dev.modular-avatar": ">=1.10.0",
+    "nadena.dev.ndmf": ">=1.6.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vrchat",
+    "avatar",
+    "editor",
+    "tool",
+    "换装",
+    "改模"
+  ]
+}
